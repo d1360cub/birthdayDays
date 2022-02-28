@@ -1,0 +1,16 @@
+{
+  "name": "birthdaydays",
+  "version": "1.0.0",
+  "description": "How many days are missing until my birthday?",
+  "main": "birthdayDays.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "date-fns": "^2.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Cubides",
+  "license": "MIT"
+}
